@@ -1,0 +1,16 @@
+{
+  "name": "Mac File Input Test",
+  "description": "Yep",
+  "version": "0.1",
+  "main": "macFileInputTest.html",
+  "window": {
+    "show": true,
+    "toolbar": false,
+    "frame": true,
+    "position": "center",
+    "width": 360,
+    "height": 300,
+    "min_width": 220,
+    "min_height": 220
+  }
+}
